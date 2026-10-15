@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Nordstrom Zero Trust Assessment",
+        "category": "Security",
+        "description": "Semester consulting project assessing Nordstrom's security with a Zero Trust framework.",
+        "technologies": [
+            "Research",
+            "Security Frameworks"
+        ]
+    },
+    {
+        "title": "Riverside EMR Project",
+        "category": "Project Management",
+        "description": "Planned an electronic medical record rollout for a family medicine clinic.",
+        "technologies": [
+            "Project Planning",
+            "Budgeting"
+        ]
+    },
+    {
+        "title": "OG&E Access Management Case Competition",
+        "category": "Data",
+        "description": "Analyzed OG&E's physical and identity access data to flag 20 outlier users and 668 redundant roles, then presented a 90-day cleanup plan.",
+        "technologies": [
+            "Python",
+            "JSON",
+            "Data Analysis"
+        ]
+    },
+    {
+        "title": "Le Visage Social Media Campaign",
+        "category": "Marketing",
+        "description": "Built a 4-week Instagram and Facebook campaign for a Norman day spa, including audits, personas, and staff spotlight content.",
+        "technologies": [
+            "Canva",
+            "Hootsuite Framework",
+            "Social Media Strategy"
+        ]
+    },
+{
+        "title": "Nike Retail Strategy Research",
+        "category": "Marketing",
+        "description": "Surveyed 106 Nike customers and tested three hypotheses in R to evaluate online vs. in-store investment, finding customers prioritized convenience over in-store experience.",
+        "technologies": [
+            "Qualtrics",
+            "R",
+            "Statistical Analysis"
+        ]
+    }
+]
